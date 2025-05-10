@@ -1,0 +1,6 @@
+                  stack memory
+this memory is used by strings,number,etc
+this memory forms the copy which only changes in copied one
+                  heap memory 
+it is used by non primitive ones like array,obects
+it provides the refercnes also that is change in one reflects also in another one
